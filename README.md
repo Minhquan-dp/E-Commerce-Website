@@ -13,8 +13,10 @@ II. Chức năng chính
 - Người dùng có thể tìm kiếm sản phẩm theo tên, hiệu, giá cả
 - Kết quả tìm kiếm hiển thị danh sách các sản phẩm phù hợp.
 - Người dùng có thể xem thông tin chi tiết về sản phẩm.
+
 3. Giỏ hàng:
 - Người dùng có thể xen danh sách các đơn hàng đã thêm trong giỏ hàng và đặt hàng trên giỏ hàng.
+
 4. Đặt hàng:
 - Người dùng có thể đặt hàng sản phẩm và chọn số lượng phù hợp.
 - Hệ thống kiểm tra tính khả dụng của sản phẩm và xác nhận đặt hàng thành công.
