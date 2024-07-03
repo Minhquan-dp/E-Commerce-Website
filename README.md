@@ -1,5 +1,3 @@
-link deploy: https://hk-ecommerce.vercel.app/
-
 # E-Commerce-Website
 Đồ án: Website Thương mại
 
@@ -29,7 +27,7 @@ II. Chức năng chính
 
 6. Tạo giao diện quản lý cho admin và người dùng có thể xem và tương tác
 
-III. Công nghệ sử dụng SERL (MongoDB, Express.js, React.js, Node.js
+III. Công nghệ sử dụng SERL (MongoDB, Express.js, React.js, Node.js)
 - Front-end: HTML, CSS, JavaScript, framework React.js
 - Back-end: Node.js(Express),
 - Cơ sở dữ liệu: MongoDB
@@ -38,3 +36,5 @@ IV. Giao diện và trải nghiệm người dùng
 - Giao diện người dùng được thiết kế đơn giản, dễ sử dụng và thân thiện.
 - Phản hồi nhanh chóng khi người dùng tương tác.
 - Cung cấp thông báo và xác nhận cho người dùng trong quá trình đặt sản phẩm.
+V. Link deploy:
+https://hk-ecommerce.vercel.app/
